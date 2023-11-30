@@ -10,3 +10,5 @@ print(names(data))
 # Print the data of each column
 #  print(data[[column]])
 #}
+
+#Ruth, Jesse, Shukira and Grace

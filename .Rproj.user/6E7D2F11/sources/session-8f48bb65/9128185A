@@ -3,7 +3,7 @@
     "path": "~/Data_management/Reading_CSV.R",
     "project_path": "Reading_CSV.R",
     "type": "r_source",
-    "hash": "3061221906",
+    "hash": "1919887898",
     "contents": "",
     "dirty": false,
     "created": 1701326984335.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,2",
+        "cursorPosition": "13,31",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1701328163,
+    "lastKnownWriteTime": 1701328277,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1701328163484,
+    "last_content_update": 1701328277568,
     "read_only": false,
     "read_only_alternatives": []
 }
